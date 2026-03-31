@@ -1,0 +1,10 @@
+{
+  "name": "image-table-extractor",
+  "version": "1.0.0",
+  "description": "Extract structured table data from images using DashScope Qwen-VL multimodal AI",
+  "author": "OpenClaw Community",
+  "homepage": "https://github.com/Survivor0102/openclaw_job",
+  "license": "MIT",
+  "tags": ["ocr", "table", "image", "dashscope", "qwen-vl", "extraction"],
+  "created": "2026-03-31"
+}
